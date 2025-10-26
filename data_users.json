@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jan Kowalski Updated",
+      "email": "jan.kowalski@example.com",
+      "roles": [
+        "admin",
+        "editor"
+      ]
+    }
+  ],
+  "next_id": 3
+}
